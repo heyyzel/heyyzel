@@ -28,9 +28,9 @@ graph LR
     A[Corca AI<br/>ML Engineer<br/>2021.09-2022.08] --> B[PwC Korea<br/>Software Engineer<br/>2023.01-2024.10]
     B --> C[AWS Korea<br/>Cloud Support Engineer<br/>2024.11-Present]
     
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-    style B fill:#bbf,stroke:#333,stroke-width:2px
-    style C fill:#ff9,stroke:#333,stroke-width:2px
+    style A fill:#FFD4E5,stroke:#FF69B4,stroke-width:3px,color:#000
+    style B fill:#D4E5FF,stroke:#4169E1,stroke-width:3px,color:#000
+    style C fill:#FFF4D4,stroke:#FFB347,stroke-width:3px,color:#000
 ```
 
 | Company | Role | Period |
@@ -76,7 +76,7 @@ graph LR
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-heyyzel-181717?style=for-the-badge&logo=github)](https://github.com/heyyzel)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/heyyzel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/soojin-an-2954a9250/)
 
 **Open to interesting problems and collaboration opportunities!**
 
